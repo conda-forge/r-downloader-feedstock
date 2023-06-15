@@ -1,11 +1,11 @@
-About r-downloader
-==================
+About r-downloader-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-downloader-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/wch/downloader
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-downloader-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a wrapper for the download.file function, making it possible to download files over HTTPS on Windows, Mac OS X, and other Unix-like platforms. The 'RCurl' package provides this functionality (and much more) but can be difficult to install because it must be compiled with external dependencies. This package has no external dependencies, so it is much easier to install.
 
